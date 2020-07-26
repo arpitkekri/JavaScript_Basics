@@ -1,2 +1,15 @@
 # JavaScript_Basics
 codes for learn basic concept of JavaScript language
+
+You will learn about 
+1. Variables
+2. Datatypes
+3. Variable Hoisting and Printing
+  learn more about Variable Hoisting here https://scotch.io/tutorials/understanding-hoisting-in-javascript
+4. Conditional Statements & Comparison Operators
+5. switch ... case
+6. Loops
+7. Functions
+8. Arrays and Array Methods
+9. Objects
+10. Destructuring
