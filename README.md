@@ -22,9 +22,11 @@ and https://www.codementor.io/@thinker3197/avoid-common-pitfalls-in-javascript-u
 6. Loops
 
 7. Functions
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 
 8. Arrays and Array Methods
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 
 9. Objects
