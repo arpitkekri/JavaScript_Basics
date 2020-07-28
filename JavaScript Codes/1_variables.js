@@ -99,7 +99,6 @@ o:```..s/:::::::::-----:++/shmNdy+ydo:--/ss+:::--:/ooo:----:+os/+      :N--m/
 */
 
 /*
-
 ******************************************* JavaScript in One file *******************************************
 
 1. JavaScript is more than just a language - it's an entire ecosystem that spans framworks, task runners, server-side development and more
