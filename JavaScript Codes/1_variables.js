@@ -95,8 +95,7 @@ o:```..s/:::::::::-----:++/shmNdy+ydo:--/ss+:::--:/ooo:----:+os/+      :N--m/
  
  
                           
-	Apna Vote Kamal Ko Hi De.
-	Jai Modi! Jai BJP! Jai Hind!
+	Jai Hind!
 */
 
 /*
