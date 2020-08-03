@@ -18,7 +18,7 @@ __Codes for learn basic concept of JavaScript language.__
 
 2. Datatypes
 
-3. Variable Hoisting and Printing [Read more](https://scotch.io/tutorials/understanding-hoisting-in-javascript)
+3. Variable Hoisting and Printing [[Read more]](https://scotch.io/tutorials/understanding-hoisting-in-javascript)
 
 4. Conditional Statements & Comparison Operators
     - [Reading 1](https://www.codementor.io/@thinker3197/avoid-common-pitfalls-in-javascript-u0hzz2nfw)
@@ -28,7 +28,7 @@ __Codes for learn basic concept of JavaScript language.__
 
 6. Loops
 
-7. Functions [Arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+7. Functions [[Arrow functions]](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 
 8. Arrays and Array Methods [[Array]](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
