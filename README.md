@@ -30,7 +30,7 @@ __Codes for learn basic concept of JavaScript language.__
 
 7. Functions [Arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 
-8. Arrays and Array Methods [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+8. Arrays and Array Methods [[Array]](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
 9. Objects
 
