@@ -6,7 +6,7 @@ __Codes for learn basic concept of JavaScript language.__
 - For reference use [JavaScript Reference](https://github.com/arpitkekri/JavaScript_Basics/blob/master/JavaScript%20Reference.pdf)
 - You do not have to write the code just play with already written code and see output
 
-## How to Run?
+## How to Use?
 1. Just clone the repository in your local system.
 2. Then open **```index.html```** file in browser.
 3. Right click -> inspect Element or use command **```ctrl + shift + I```**.
@@ -37,7 +37,7 @@ __Codes for learn basic concept of JavaScript language.__
 10. Destructuring
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please drop a mail at jainarpitkekri@gmail.com 
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
